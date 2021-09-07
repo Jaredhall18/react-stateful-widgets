@@ -48,7 +48,6 @@ const [mood, setMood] = useState(initialMood);
   const reset = () => {
     /* STEP 6 */
     setMood(initialMood)
-  
   };
 
   const style = {
