@@ -61,7 +61,7 @@ const [count, setCount] = useState(0);
   };
   const reset = () => {
     /* STEP 6 */
-    setCount(count = 0)
+    setCount(0)
   };
 
   const style = {
